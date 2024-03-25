@@ -1,4 +1,4 @@
-# Autonomous Robot Navigation with Trapezoidal Velocity Profile
+# Autonomous Robot Navigation with Trapezoidal Velocity Profile using Arduino MEGA
 
 This repository contains code and resources for implementing autonomous robot navigation using a trapezoidal velocity profile. The robot is designed to follow a given position using this velocity profile, ensuring smooth and efficient movement.
 
